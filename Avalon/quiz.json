@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "question": "Which plant is known as 'Holy Basil' and is sacred in India?",
+        "answer_options": [
+            "Ashwagandha",
+            "Tulsi",
+            "Neem",
+            "Aloe Vera"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 2,
+        "question": "What is the scientific name of Turmeric?",
+        "answer_options": [
+            "Curcuma longa",
+            "Withania somnifera",
+            "Syzygium aromaticum",
+            "Ocimum sanctum"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 3,
+        "question": "Which plant’s root is used to reduce stress and improve sleep?",
+        "answer_options": [
+            "Cardamom",
+            "Ashwagandha",
+            "Cinnamon",
+            "Clove"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 4,
+        "question": "Which of these plants thrives in sandy, arid soil and is drought-tolerant?",
+        "answer_options": [
+            "Aloe Vera",
+            "Tulsi",
+            "Pepper",
+            "Ginger"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 5,
+        "question": "What is the primary active compound in Cinnamon responsible for its antimicrobial properties?",
+        "answer_options": [
+            "Curcumin",
+            "Cinnamaldehyde",
+            "Eugenol",
+            "Withanolides"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 6,
+        "question": "Which plant is commonly used to treat tooth pain and contains eugenol?",
+        "answer_options": [
+            "Clove",
+            "Fenugreek",
+            "Amla",
+            "Sandalwood"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 7,
+        "question": "Which plant takes 15-20 years to mature for its fragrant wood harvest?",
+        "answer_options": [
+            "Neem",
+            "Sandalwood",
+            "Moringa",
+            "Jamun"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 8,
+        "question": "What is the traditional preparation method for Giloy?",
+        "answer_options": [
+            "Leaf paste applied topically",
+            "Root powder mixed with milk",
+            "Stem boiled into a decoction",
+            "Fruit juiced"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": 9,
+        "question": "Which plant is known for lowering blood sugar and has the common name 'Bitter Gourd'?",
+        "answer_options": [
+            "Karela",
+            "Shatavari",
+            "Punarnava",
+            "Brahmi"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 10,
+        "question": "Which of these plants is native to India and used to boost lactation?",
+        "answer_options": [
+            "Fenugreek",
+            "Coriander",
+            "Lemongrass",
+            "Tamarind"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 11,
+        "question": "What is the cultivation period for Turmeric?",
+        "answer_options": [
+            "60-90 days",
+            "8-10 months",
+            "2-3 years",
+            "15-20 years"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 12,
+        "question": "Which plant’s fruit is rich in Vitamin C and known as Indian gooseberry?",
+        "answer_options": [
+            "Amla",
+            "Jamun",
+            "Bael",
+            "Haritaki"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 13,
+        "question": "Which plant is used in Ayurveda to support heart health with its bark?",
+        "answer_options": [
+            "Arjuna",
+            "Vasaka",
+            "Guggul",
+            "Pippali"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 14,
+        "question": "Which of these plants requires high, consistent moisture and a humid climate?",
+        "answer_options": [
+            "Cardamom",
+            "Neem",
+            "Sandalwood",
+            "Moringa"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 15,
+        "question": "Which plant is a combination of three fruits used for detoxification?",
+        "answer_options": [
+            "Triphala",
+            "Shankhpushpi",
+            "Safed Musli",
+            "Kalonji"
+        ],
+        "correct_option": 0
+    }
+]
